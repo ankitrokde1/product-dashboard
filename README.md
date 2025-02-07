@@ -23,3 +23,5 @@ It allows an admin to register, log in, add products, and manage product availab
    cd your-repo
 2. Install dependencies: npm install
 3. Run the server: nodemon server.js
+4. After Running the Project SignUp as an Admin Account.
+5. Then After Login as Admin , add some product details to see changes in Admin Dashboard Panel
